@@ -1,3 +1,4 @@
+![mypic](https://user-images.githubusercontent.com/27313623/130525618-44a7adf5-daa9-4455-ac9f-58e99af0ace4.jpeg)
 ### About me
 
 I'm excited about evolution, population genetics, genotype-phenotype-fitness map, simulations, genome organization, genetic architecture of complex traits, and algorithms to study all of the above. My other interests include travel, hiking, music

@@ -4,9 +4,9 @@ I'm excited about evolution, population genetics, genotype-phenotype-fitness map
 
 ### Current Projects
 
-- Population genomics of nematodes with different reproduction modes
+- Population genomics of nematodes with different reproduction modes (_Caenorhabditis elegans_ and _C. remanei_)
 - Evolution of gene regulatory networks
-- Genome assembly and annotation
+- Genome assembly and annotation (_Caenorhabditis brenneri_)
 
 
 ### Education

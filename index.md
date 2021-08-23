@@ -1,10 +1,10 @@
-#_[this page is under construction]_
+# _[this page is under construction]_
 
-##About
+## About
 Postdoc at the University of Oregon (2018 - current)
 
 
-##Projects
+## Projects
 
 - Population genomics of nematodes with different reproduction modes
 - Evolution of gene regulatory networks
@@ -12,9 +12,9 @@ Postdoc at the University of Oregon (2018 - current)
 - Bulk segregant analysis
 
 
-##Education
+## Education
 
 
 
 
-##Publications
+## Publications

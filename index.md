@@ -1,4 +1,3 @@
-<link rel="icon" type="image/x-icon" href="/myfavicon.ico">
 <p align="center">
   <img src="https://user-images.githubusercontent.com/27313623/130527330-2b0ba303-1f51-4e9f-8940-6146ec349a23.jpg">
 </p>

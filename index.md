@@ -96,4 +96,4 @@ My [Google Scholar](https://scholar.google.ru/citations?user=k_tT-w8AAAAJ&hl=en)
 
 ### Contacts
 
-My email(mailto:teterina@gmail.com) and [twitter](https://twitter.com/attrna)
+My [email](mailto:teterina@gmail.com) and [twitter](https://twitter.com/attrna)

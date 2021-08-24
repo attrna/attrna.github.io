@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/27313623/130570014-344ed66c-6726-43e7-bad5-1ace4873b719.jpg" align="right" style="padding-left:10px; padding-right:10px; padding-bottom:15px; padding-top:15px; border: 0px; background-color:transparent;"  width="200px"/>
+<img src="https://user-images.githubusercontent.com/27313623/130570014-344ed66c-6726-43e7-bad5-1ace4873b719.jpg" align="right" style="padding-left:10px; padding-right:10px; padding-bottom:15px; padding-top:15px; border: 0px; background-color: #42413Cad;"  width="200px"/>
 <h3>About me</h3>
 I'm excited about evolution, population genetics, genotype-phenotype-fitness map, simulations, genome organization, genetic architecture of complex traits, and algorithms to study all of the above. My other interests include travel, hiking, music
 

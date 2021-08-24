@@ -15,19 +15,13 @@ I'm excited about evolution, population genetics, genotype-phenotype-fitness map
 
 ### Education
 
-- **2006 – 2011:**	Lomonosov Moscow State University (MSU), Moscow, Russia
-Faculty of Biology, Department of Genetics 
-Specialist degree in Molecular Genetics
+- **2006 – 2011:**	Specialist degree in Molecular Genetics | Lomonosov Moscow State University (MSU), Faculty of Biology, Department of Genetics, Moscow, Russia
 - **2012:**	ComPhy-2012 summer school, Moscow, Russia
-- **2011-2013:**	Yandex School of Data Analysis, Moscow, Russia 
-Bioinformatics, Master's degree
-- **2014:**	Next-generation sequencing course 2014 , FBB MSU, Moscow, Russia
+- **2011-2013:**	Bioinformatics, Master's degree | Yandex School of Data Analysis, Moscow, Russia 
+- **2014:**	Next-generation sequencing course 2014, FBB MSU, Moscow, Russia
 - **2015:**	Molecular phylogenies to answer ecological questions (by Dr. Diego Fontaneto), MSU, Moscow, Russia
-- **2011-2016:**	Vavilov Institute of General Genetics, Moscow, Russia
-Laboratory of Genetic Identification 
-PhD in Genetics
-Thesis theme “The genetic history of a small isolated population of Atlantic cod Gadus morhua from Kildin Island”
-(Advisor: Prof. Dr. Lev A. Zhivotovsky)
+- **2011-2016:**	PhD in Genetics. Thesis theme "The genetic history of a small isolated population of Atlantic cod Gadus morhua from Kildin Island"
+(Advisor: Prof. Dr. Lev A. Zhivotovsky) | Vavilov Institute of General Genetics, Laboratory of Genetic Identification, Moscow, Russia
 - **2017:**	Deep Learning for Biology (by Grigory Sapunov), HSE University, Moscow, Russia
 
 

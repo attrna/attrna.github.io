@@ -5,7 +5,6 @@ I'm excited about evolution, population genetics, genotype-phenotype-fitness map
 
 <br clear="left"/>
 
-I'm excited about evolution, population genetics, genotype-phenotype-fitness map, simulations, genome organization, genetic architecture of complex traits, and algorithms to study all of the above. My other interests include travel, hiking, music
 
 ### Current Projects
 

@@ -1,5 +1,5 @@
 ### About me
-<img src="https://user-images.githubusercontent.com/27313623/130570014-344ed66c-6726-43e7-bad5-1ace4873b719.jpg" align="right" width="220px"/>
+<img src="https://user-images.githubusercontent.com/27313623/130570014-344ed66c-6726-43e7-bad5-1ace4873b719.jpg" align="right" width="200px"/>
 I'm excited about evolution, population genetics, genotype-phenotype-fitness map, simulations, genome organization, genetic architecture of complex traits, and algorithms to study all of the above. My other interests include travel, hiking, music
 
 
